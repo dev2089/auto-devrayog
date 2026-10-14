@@ -1,0 +1,26 @@
+# After the Hashtag: The Gen Z Protest Wave, 2024–2026
+
+> Dated evidence-linked comparative dossier; research snapshot 14 October 2026.
+
+## Pages
+- [Field note](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/)
+- [Country atlas](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/atlas.html)
+- [Timeline](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/timeline.html)
+- [Mechanisms](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/patterns.html)
+- [Outcome audit](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/outcomes.html)
+- [Research paper](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/paper.html)
+- [Learning lab](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/learn.html)
+- [Source ledger](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/sources.html)
+- [Markdown research paper](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/downloads/research-paper.md)
+- [Case matrix CSV](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/downloads/case-matrix.csv)
+- [Timeline CSV](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/downloads/timeline.csv)
+- [Source register CSV](https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/downloads/source-register.csv)
+
+## Core conclusion
+The strongest model is a transnational repertoire of locally rooted protests, not one global organization. Similar grievances and symbols coexist with differing local triggers and outcomes. Attribute casualty and arrest estimates, maintain time windows, and separate evidence from disputed interpretations.
+
+## Limits
+Purposive qualitative sample, not a global census. No original interviews, fieldwork, survey, controlled experiments or complete platform scrape. Not a peer-reviewed journal publication. Re-check fast-changing current claims before consequential use.
+
+## Official credit
+Made by DEVRAYOG: https://v0-devrayog.vercel.app/

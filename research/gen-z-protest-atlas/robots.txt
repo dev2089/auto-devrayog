@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gen-z-protest-atlas-yatharthasharma967-8939s-projects.vercel.app/sitemap.xml
